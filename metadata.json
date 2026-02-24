@@ -1,0 +1,9 @@
+{
+  "name": "Prakruthi Mithra",
+  "description": "A comprehensive digital guide for APCNF Natural Farming (Andhra Pradesh Community Managed Natural Farming), featuring the 9 principles, bio-concoctions (Kashayalu), crop management, and an AI farming assistant.",
+  "requestFramePermissions": [
+    "microphone",
+    "camera",
+    "geolocation"
+  ]
+}
